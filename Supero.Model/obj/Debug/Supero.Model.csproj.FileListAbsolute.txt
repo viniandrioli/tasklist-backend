@@ -1,0 +1,14 @@
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\bin\Debug\Supero.Model.dll.config
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\bin\Debug\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\bin\Debug\Supero.Model.pdb
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\obj\Debug\Supero.Model.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\obj\Debug\Supero.Model.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\obj\Debug\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero\Supero\Supero.Model\obj\Debug\Supero.Model.pdb
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Debug\Supero.Model.dll.config
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Debug\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Debug\Supero.Model.pdb
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Debug\Supero.Model.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Debug\Supero.Model.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Debug\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Debug\Supero.Model.pdb

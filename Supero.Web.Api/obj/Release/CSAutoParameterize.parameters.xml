@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SuperoDbContext-Web.config Connection String" description="SuperoDbContext Connection String used in web.config by the application to access the database." defaultValue="server=isilo.db.elephantsql.com;user id=rihxnupm;password=3BBL7FYg2hrX3XX2YfEJo2WpJb8vVivJ;database=rihxnupm;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\VINICIUS\\Desktop\\Supero-source\\Supero\.Web\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SuperoDbContext']/@connectionString" />
+  </parameter>
+  <parameter name="SuperoDbContext-Slave-Web.config Connection String" description="SuperoDbContext-Slave Connection String used in web.config by the application to access the database." defaultValue="server=isilo.db.elephantsql.com;user id=rihxnupm;password=3BBL7FYg2hrX3XX2YfEJo2WpJb8vVivJ;database=rihxnupm" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\VINICIUS\\Desktop\\Supero-source\\Supero\.Web\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SuperoDbContext-Slave']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,7 @@
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Release\Supero.Model.dll.config
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Release\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\bin\Release\Supero.Model.pdb
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Release\Supero.Model.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Release\Supero.Model.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Release\Supero.Model.dll
+C:\Users\VINICIUS\Desktop\Supero-source\Supero.Model\obj\Release\Supero.Model.pdb
